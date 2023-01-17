@@ -12,4 +12,3 @@ spec:
   selector:
     app: go-helloworld-2
   type: NodePort
-  
