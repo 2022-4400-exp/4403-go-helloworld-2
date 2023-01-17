@@ -15,7 +15,7 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: dockerhubのユーザ名/go-helloworld-2
+      - image: docker pull ghcr.io/2022-4400-exp/4403-go-helloworld-2:09c54b24b81f91ed841ddd641236867a86dc37ec@sha256:5a85dfe373f1b0968f948218ded6f46aa0708cf197a897cf1ec9399c9008f559
         name: go-helloworld-2
 ---
 apiVersion: v1
