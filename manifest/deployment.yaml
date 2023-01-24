@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: ghcr.io/2022-4400-exp/commit hash(github_sha)
+      - image: ghcr.io/2022-4400-exp/4403-go-helloworld-2:f0b63c8be4277c47a9178e54be71891f19f4bdd3
         name: go-helloworld-2
